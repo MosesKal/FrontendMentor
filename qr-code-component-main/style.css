@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    background-color: #d5e1ef;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    width: 25vw;
+    height: 70vh;
+    border: 1px solid #5083be;
+}
+.card-head, .card-body{
+    width: 90%;
+    padding-top: 15px;
+    margin:auto;
+    text-align: center;
+}
+.card-head img{
+    width:90%;
+}
+
